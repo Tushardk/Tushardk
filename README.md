@@ -5,7 +5,7 @@ I'm a Front End Web Developer from India. :india:
 🖥️ *I'm currently working with <a href="https://geospoc.com/" target="_blank" rel="noopener noreferrer nofollow">GeoSpoc Geospatial Services</a>*  
 ⌨️ *I use `.html` `.css` `.js` `.ts` on daily basis.*  
 ⌨️ *I also use `Vue`, `Nuxt` as framework and its related eco system toolings.*  
-🖐️ *You can ping me for queries/questions in regard of above mentioned topics.*  
+🖐️ *You can ping me for queries/questions in regard of anything above related.*  
 😆 *Pronounces He/Him.*  
 🙏 *Thank you by stopping by.*  
 
