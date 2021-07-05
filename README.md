@@ -7,7 +7,7 @@ I'm a Front End Web Developer from India. :india:
 ⌨️ *I also use `Vue`, `Nuxt` as framework and its related eco system toolings.*  
 🖐️ *You can ping me for queries/questions in regard of anything above related.*  
 😆 *Pronounces He/Him.*  
-🙏 *Thank you by stopping by.*  
+🙏 *Thank you for stopping by.*  
 
 
 <!--
